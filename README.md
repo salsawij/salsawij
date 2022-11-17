@@ -6,7 +6,7 @@ Hello!
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/zstvn/">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/yoomiraaaa">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.io/miraaaa">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
+<a href="https://www.instagram.com/zstvn/">![Instagram](https://img.shields.io/badge/Miraaaa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/yoomiraaaa">![Twitter](https://img.shields.io/badge/Miraaaa-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.io/miraaaa">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
 </a> ![Discord](https://img.shields.io/badge/Miraaaa%238400-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
